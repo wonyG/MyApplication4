@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Account Book</string>
+    <string name="MainTextBox">家計簿</string>
+    <string name="textview">TextView</string>
+    <string name="button">作成</string>
+    <string name="button2">見る</string>
+    <string name="button3">修正</string>
+    <string name="cancelbutton">戻る</string>
+    <string name="savebutton">セーブ</string>
+    <string name="changebutton">修正</string>
+    <string name="inputchechbox">収入</string>
+    <string name="outputcheckbox">支出</string>
+    <string name="transaction">内訳</string>
+    <string name="dates">月日選択</string>
+    <string name="money">金額</string>
+    <string name="showdate">%1$d-%2$d-%3$d</string>
+    <string name="balance">殘額</string>
+</resources>
